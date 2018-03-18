@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "936681086233",
+    "firebase_url": "https://hrtt-a8385.firebaseio.com",
+    "project_id": "hrtt-a8385",
+    "storage_bucket": "hrtt-a8385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936681086233:android:a4d7b5e6a76ff113",
+        "android_client_info": {
+          "package_name": "com.example.tiberium.hrtt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936681086233-jdd7s1md05842l31fnb600b6qclits6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiberium.hrtt",
+            "certificate_hash": "f20b75406d326a860008f6271974f0d7e63e411c"
+          }
+        },
+        {
+          "client_id": "936681086233-v7pjrlqb898qk7cab4ls66h70d27c62g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdB3FxcMcR759iEe8rAqoikoFhdekPD3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936681086233-v7pjrlqb898qk7cab4ls66h70d27c62g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
